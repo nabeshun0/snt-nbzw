@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/shuntiger/posts.svg)](http://qiita.com/shuntiger)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shuntiger/contributions.svg)](http://qiita.com/shuntiger)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/shuntiger/followers.svg)](http://qiita.com/shuntiger)
+
 <!--
 **snt-nbzw/snt-nbzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
