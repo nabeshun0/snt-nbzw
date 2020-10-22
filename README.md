@@ -1,5 +1,4 @@
 [![snt-nbzw github stats](https://github-readme-stats.vercel.app/api?username=snt-nbzw&show_icons=true)](https://github.com/snt-nbzw)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snt-nbzw)](https://github.com/snt-nbzw)
 
 [![GitHub](https://img.shields.io/github/followers/snt-nbzw?style=social)](https://github.com/snt-nbzw)
 [![Twitter](https://img.shields.io/twitter/follow/shuntigeeer?style=social)](https://twitter.com/shuntigeeer)
