@@ -3,9 +3,9 @@
 [![GitHub](https://img.shields.io/github/followers/snt-nbzw?style=social)](https://github.com/snt-nbzw)
 [![Twitter](https://img.shields.io/twitter/follow/shuntigeeer?style=social)](https://twitter.com/shuntigeeer)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/shuntiger/posts.svg)](http://qiita.com/shuntarou)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shuntiger/contributions.svg)](http://qiita.com/shuntarou)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/shuntiger/followers.svg)](http://qiita.com/shuntarou)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/shuntarou/posts.svg)](http://qiita.com/shuntarou)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shuntarou/contributions.svg)](http://qiita.com/shuntarou)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/shuntarou/followers.svg)](http://qiita.com/shuntarou)
 
 <!--
 **snt-nbzw/snt-nbzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
